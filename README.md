@@ -1,4 +1,7 @@
-# Conductive.ai Backend Engineer Test: Search Optimization
+![Conductive Logo](https://i.imgur.com/NRNOc7P.png)
+
+
+# Backend Engineer Test: Search Optimization
 
 
 Hi there! 👋
