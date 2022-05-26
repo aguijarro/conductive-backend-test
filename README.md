@@ -27,7 +27,8 @@ you downloaded and computes answers to the following questions:
 * How many total schools are in this data set?
 * How many schools are in each state?
 * How many schools are in each Metro-centric locale?
-* What city has the most schools in it? How many schools does it have in it?
+* What city has the most schools in it? 
+* How many schools does it have in it?
 * How many unique cities have at least one school in it?
 ### Guidelines
 * Create a file called count_schools.py, and write a method called print_counts.
